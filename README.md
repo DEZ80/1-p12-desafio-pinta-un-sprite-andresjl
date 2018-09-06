@@ -18,4 +18,4 @@ PC: 4000
 # IMAGENES
 ¡Captura tu sprite y súbelo aquí!
 ![Desafío](/cohete.png)
-![Desafío](/cohete2.png)
+
